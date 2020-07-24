@@ -19,17 +19,17 @@
 
 8) please find below the connection property which i have used in order to make database connectivity.
 
-spring.datasource.url=jdbc:h2:mem:testdb
-spring.datasource.driverClassName=org.h2.Driver
-spring.datasource.username=admin
-spring.datasource.password=admin
-spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
+spring.datasource.url=jdbc:h2:mem:testdb </br>
+spring.datasource.driverClassName=org.h2.Driver </br>
+spring.datasource.username=admin </br> 
+spring.datasource.password=admin </br>
+spring.jpa.database-platform=org.hibernate.dialect.H2Dialect </br>
 
-spring.h2.console.enabled=true
-spring.h2.console.path=/h2-console
+spring.h2.console.enabled=true </br>
+spring.h2.console.path=/h2-console </br>
 
-spring.jpa.hibernate.ddl-auto = update
-spring.jpa.show-sql=true
+spring.jpa.hibernate.ddl-auto = update </br>
+spring.jpa.show-sql=true </br>
 
 9) List down the couple of dependencies which are being use.
  1) Spring Data JPA.
