@@ -7,13 +7,13 @@
 
 7) please find below the request url. 
 
-1) POST : localhost:8080/employee
+1) POST : localhost:8080/employee </br>
    BODY : {
 	"empName" : "heena",
 	"empAge" : 28,
 	"empGender" : "female"
 	}
-
+</br>
 2) GET : localhost:8080/list?minAge=28&maxAge=28&gender=female
 
 
