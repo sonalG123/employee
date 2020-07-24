@@ -31,4 +31,9 @@ spring.h2.console.path=/h2-console
 spring.jpa.hibernate.ddl-auto = update
 spring.jpa.show-sql=true
 
+9) List down the couple of dependencies which are being use.
+ 1) Spring Data JPA.
+ 2) Junit for testing.
+ 3) H2 Database (In memory DB).
+ 4) Spring Web.
 
